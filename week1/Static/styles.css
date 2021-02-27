@@ -10,10 +10,8 @@ ul {
 ul li { 
     list-style: none;
     display: inline-block;
-    color: blueviolet;
 }
 
 ul li a { 
     text-decoration: none;
-    color: blueviolet;
 }
