@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333333;
+    background-color: red;
   }
 
 li {
@@ -12,7 +12,7 @@ li {
 
   li a {
       display: block;
-      color: #D6D6D6;
+      color:white;
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
@@ -20,9 +20,14 @@ li {
 
   /* Change the link color to #111 (black) on hover */
 li a:hover {
-    font-style: bold;
+   background-color: #111 ;
   }
  
 .active {
-    color:white;
+    color:#4CAF50;
+}
+
+h1 {
+  color: #4CAF50;
+
 }
